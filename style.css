@@ -1,0 +1,145 @@
+		
+		h1 {
+			font-family:"Courier New";
+			
+			}
+		/*Changes the Title font*/
+		
+		
+		h2{
+
+			font-size: 20px;
+			font-family:"Courier New";
+			color: #ffffff ;
+			}
+		
+		a:visited{
+			color: #ffffff ;
+		}
+		/*stops the visted pages from being purple*/
+	
+		h3 img.resize {
+			width:400px;
+		}
+		/*resizes the banner image*/ -->
+		
+			img.resizefire {
+			width:150px;
+		}
+		
+		<!--h3{
+
+			font-size: 20px;
+			font-family:"Courier New";
+		
+			
+			
+		}-->
+		
+		h4
+			{
+				font-size: 30px;
+				font-family:"Courier New";	
+			}
+/*affects the title of the posts? */		
+		
+		section div, h2{
+			background: #44B7C8 ;
+			width:100%;
+			margin: 20px;
+			}
+		/*The blue color box around the links*/
+	
+		<!--p{
+
+			
+			font-family:"Courier New";
+	
+			
+		}-->
+		
+		h5{
+
+			font-size: 60px;
+			font-family:"Courier New";
+			font-weight: normal;
+
+			
+			
+		}
+		
+		.post{
+			float: center;
+			width:  700px;
+			margin: 10px;
+			background-color: #A5DCE5;
+			border: 1px solid rgba(0, 0, 0, .2);
+  
+			}
+/*Affects the individual post box's postion and color? */
+		
+		
+		.colorboxes {
+  float: left;
+  width: 600px;
+  height: 200px;
+  margin: 5px;
+  border: 1px solid rgba(0, 0, 0, .2);
+}
+
+
+
+.blue {
+  background: #6687DB;
+  color: #ffffff ;
+}
+
+.green{
+  background: #7BC870;
+  color: #ffffff ;
+}
+
+.yellow {
+  background: #F9FC78;
+  
+  
+}
+.red {
+  background: #D75454 ;
+  color: #ffffff ;
+  
+}
+
+
+
+	.inputheader{
+			font-family:"Courier New";
+			font-size: 30px;
+			}
+			
+			
+		.inputdivboxes
+			{
+				float: center;
+				width:  700px;
+				margin: 5px;
+				
+				background: #A5DCE5 ;
+				}
+			
+			section div, .login 
+			{
+			float: center;
+			width:  700px;
+			margin: 10px;
+			background-color: #A5DCE5;
+			border: 1px solid rgba(0, 0, 0, .2);
+  
+			}
+			section div, .loginbox 
+			{
+			float: center;
+			margin: 3px;
+			background-color: #A5DCE5;
+			border: 1px solid rgba(0, 0, 0, .2);
+            }
